@@ -1,0 +1,9 @@
+C:\ZONESRV\WYD\wConfig\wConfig\bin\Debug\wConfig.exe.config
+C:\ZONESRV\WYD\wConfig\wConfig\bin\Debug\wConfig.exe
+C:\ZONESRV\WYD\wConfig\wConfig\bin\Debug\wConfig.pdb
+C:\ZONESRV\WYD\wConfig\wConfig\obj\Debug\wConfig.csprojResolveAssemblyReference.cache
+C:\ZONESRV\WYD\wConfig\wConfig\obj\Debug\wConfig.Main.resources
+C:\ZONESRV\WYD\wConfig\wConfig\obj\Debug\wConfig.Properties.Resources.resources
+C:\ZONESRV\WYD\wConfig\wConfig\obj\Debug\wConfig.csproj.GenerateResource.Cache
+C:\ZONESRV\WYD\wConfig\wConfig\obj\Debug\wConfig.exe
+C:\ZONESRV\WYD\wConfig\wConfig\obj\Debug\wConfig.pdb

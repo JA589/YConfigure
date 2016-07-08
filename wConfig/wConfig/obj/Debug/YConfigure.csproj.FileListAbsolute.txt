@@ -1,0 +1,8 @@
+C:\ZONESRV\WYD\wConfig\wConfig\obj\Debug\wConfig.Main.resources
+C:\ZONESRV\WYD\wConfig\wConfig\obj\Debug\wConfig.Properties.Resources.resources
+C:\ZONESRV\WYD\wConfig\wConfig\obj\Debug\YConfigure.csproj.GenerateResource.Cache
+C:\ZONESRV\WYD\wConfig\wConfig\bin\Debug\YConfigure.exe.config
+C:\ZONESRV\WYD\wConfig\wConfig\bin\Debug\YConfigure.exe
+C:\ZONESRV\WYD\wConfig\wConfig\bin\Debug\YConfigure.pdb
+C:\ZONESRV\WYD\wConfig\wConfig\obj\Debug\YConfigure.exe
+C:\ZONESRV\WYD\wConfig\wConfig\obj\Debug\YConfigure.pdb
